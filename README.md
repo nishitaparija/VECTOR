@@ -149,3 +149,4 @@ MSc Cybersecurity — University of Galway (2024–25)
 [LinkedIn — Nishita Parija](https://www.linkedin.com/in/nishitaparija) · [GitHub](https://github.com/nishitaparija)
 
 ---
+the written report content belongs to the university while the framework documentation in the repo is shared under MIT. 
